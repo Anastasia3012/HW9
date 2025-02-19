@@ -65,7 +65,7 @@ public class Main {
 //        Задача4
         for (int i = 0; i < one.length; i++) {
             if (one[i] % 2 != 0) {
-                one[i]+=1;
+                one[i] += 1;
                 System.out.println(Arrays.toString(one));
             }
         }
